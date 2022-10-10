@@ -6,6 +6,7 @@ In edt2D(), two dimensional transform is computed by first performing one dimens
 In edt1D(), we first compute the lower envelope of the n parabolas, then fill in the values of Df (p) by checking the height of the lower envelope at each grid location p.
 
 References
+
 Distance Transforms of Sampled Functions
 Pedro F. Felzenszwalb Daniel P. Huttenlocher
 http://people.cs.uchicago.edu/~pff/papers/dt.pdf
